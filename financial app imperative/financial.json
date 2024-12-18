@@ -1,0 +1,160 @@
+{
+  "budgets": [
+    {
+      "category": "Food",
+      "amount": 500,
+      "period": "weekly",
+      "id": 1734478572848
+    },
+    {
+      "category": "Transport",
+      "amount": 200,
+      "period": "weekly",
+      "id": 1734478572849
+    },
+    {
+      "category": "Rent",
+      "amount": 1000,
+      "period": "monthly",
+      "id": 1734478572850
+    },
+    {
+      "category": "Entertainment",
+      "amount": 200,
+      "period": "monthly",
+      "id": 1734478572851
+    },
+    {
+      "category": "Food",
+      "period": "monthly",
+      "amount": 2000,
+      "id": 1734478572852
+    }
+  ],
+  "Transactions": [
+    {
+      "Date": "2024-11-22",
+      "Category": "Food",
+      "amount": 50,
+      "Description": "Lunch at a restaurant",
+      "id": 1734479259633
+    },
+    {
+      "Date": "2024-12-07",
+      "Category": "Entertainment",
+      "amount": 50,
+      "Description": "Lunch at a restaurant",
+      "id": 1734479259634
+    },
+    {
+      "Date": "2024-12-03",
+      "Category": "Food",
+      "amount": 250,
+      "Description": "Lunch at a restaurant",
+      "id": 1734479259635
+    },
+    {
+      "Date": "2024-12-09",
+      "Category": "Transport",
+      "amount": 100,
+      "Description": "Lunch at a restaurant",
+      "id": 1734479259636
+    },
+    {
+      "Date": "2024-12-09",
+      "Category": "Transport",
+      "amount": 20,
+      "Description": "Train ticket",
+      "id": 1734479259637
+    },
+    {
+      "Date": "2024-11-09",
+      "Category": "Transport",
+      "amount": 300,
+      "Description": "Train ticket",
+      "id": 1734479259638
+    },
+    {
+      "Date": "2024-12-04",
+      "Category": "Food",
+      "amount": 30,
+      "Description": "Groceries",
+      "id": 1734479259639
+    },
+    {
+      "Date": "2024-12-05",
+      "Category": "Rent",
+      "amount": 1000,
+      "Description": "Monthly rent payment",
+      "id": 1734479259640
+    },
+    {
+      "Date": "2024-12-01",
+      "Category": "Entertainment",
+      "amount": 50,
+      "Description": "Movie tickets",
+      "id": 1734479259641
+    },
+    {
+      "Date": "2024-12-15",
+      "Category": "Transport",
+      "amount": 50,
+      "Description": "uper",
+      "id": 1734479259642
+    },
+    [
+      {
+        "Date": "2024-10-10",
+        "Category": "Food",
+        "Amount": 120,
+        "Description": "dinner"
+      }
+    ]
+  ],
+  "savingsGoals": [
+    {
+      "name": "Vacation",
+      "amount": 7000,
+      "id": 1734270928769,
+      "targetDate": 1751241600000
+    },
+    {
+      "name": "Emergency Fund",
+      "amount": 3000,
+      "id": 1734270928770,
+      "targetDate": 1769731200000
+    }
+  ],
+  "income": [
+    {
+      "source": "Salary",
+      "amount": 6500,
+      "date": "2024-12-05",
+      "id": 1734273878567
+    },
+    {
+      "source": "Freelance",
+      "amount": 1500,
+      "date": "2024-12-15",
+      "id": 1734273878568
+    },
+    {
+      "source": "freelance2",
+      "amount": 4000,
+      "date": "2024-12-01",
+      "id": 1734273878569
+    },
+    {
+      "source": "Freelance1",
+      "amount": 1500,
+      "date": "2024-12-15",
+      "id": 1734273878570
+    },
+    {
+      "Date": "2024-12-20",
+      "Source": "freelance2",
+      "amount": 300,
+      "id": 1734273878571
+    }
+  ]
+}
